@@ -1,5 +1,5 @@
-# fb-autoreaction
-Facebook Auto Reaction BOT 2017
+# AutoReact-Facebook
+Auto React Facebook Since 2017
 
 # Cara pakai
 
@@ -26,21 +26,4 @@ $reaction = new Reaction();
 $reaction->send_reaction($user, $pass, $token, $r_male, $r_female, $max_status);
 </pre>
 
-# cli usage
-
-<pre>
-root@tonday:~# php autoreaction.php
-
-Status ID 941113712688709 => female => reacted
-Status ID 10208206011644986 => female => reacted
-Status ID 742983735851775 => female => reacted
-Status ID 1425696447472324 => female => reacted
-Status ID 10206758484274676 => female => reacted
-Status ID 10206758478314527 => female => reacted
-Status ID 1242968405788238 => male => reacted
-Status ID 248837638884394 => male => reacted
-Status ID 1417369344949323 => male => reacted
-Status ID 1207019699376205 => female => reacted
-Status ID 1316406528423269 => female => reacted
-</pre>
-# Facebook-AutoReact
+© Copyright Tondy_666
